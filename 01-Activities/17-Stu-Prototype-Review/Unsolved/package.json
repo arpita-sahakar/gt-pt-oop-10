@@ -1,0 +1,19 @@
+{
+  "name": "tv-tuner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "fs": "0.0.1-security"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
